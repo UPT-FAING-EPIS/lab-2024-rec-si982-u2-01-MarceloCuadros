@@ -8,7 +8,7 @@ terraform {
   required_version = ">= 0.14.9"
 }
 
-variable "suscription_id" {
+variable "subscription_id" {
     type = string
     description = "a451ad28-7d22-4f6b-ba2f-e69e490790b4"
 }
